@@ -6,14 +6,18 @@ export const environment = {
   production: false,
   ApiKeyGoogleMaps: 'AIzaSyC-----api key',
   firebaseConfig: {
-    apiKey: 'AIzaS-----',
-    authDomain: "gasdomi.firebaseapp.com",
-    databaseURL: "https://gas-----rebaseio.com",
-    projectId: "ga-----omi",
-    storageBucket: "gasdo-----pot.com",
-    messagingSenderId: "67-----046",
-    appId: "1:67436-----50637",
-    measurementId: "G-ME-----V4Z19"
+    apiKey: "AIzaSyAJK4W7oLAjeugK8CcC5OX0GN1E1scMaNE",
+  
+    authDomain: "apptienda-36c39.firebaseapp.com",
+  
+    projectId: "apptienda-36c39",
+  
+    storageBucket: "apptienda-36c39.appspot.com",
+  
+    messagingSenderId: "863886544393",
+  
+    appId: "1:863886544393:web:8e28413b08dfe0c69832d8"
+  
   }
 };
 

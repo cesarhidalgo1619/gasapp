@@ -11,7 +11,7 @@ import { map } from 'rxjs/operators';
 import { canActivate } from '@angular/fire/auth-guard';
 import { PedidosComponent } from './pages/pedidos/pedidos.component';
 
-const isAdmin = (next: any) => map( (user: any) => !!user && 'CHpQBloQ36ZRsLoGz9RmUwBAstR2' === user.uid);
+const isAdmin = (next: any) => map( (user: any) => !!user && '4UKs4mgGokQ2NNYDqskNBYuRrj12' === user.uid);
 
 
 
